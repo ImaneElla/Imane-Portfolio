@@ -1,12 +1,13 @@
 {
   "version": 2,
   "builds": [
-    {
-      "src": "portfolio.html",
-      "use": "@vercel/static"
-    }
+    { "src": "portfolio.html", "use": "@vercel/static" },
+    { "src": "logoDark.svg", "use": "@vercel/static" },
+    { "src": "logoLight.svg", "use": "@vercel/static" },
+    { "src": "profile.png", "use": "@vercel/static" }
   ],
   "routes": [
-    { "dest": "portfolio.html" }
+    { "src": "/(.*)", "dest": "portfolio.html" }
   ]
 }
+
