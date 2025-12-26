@@ -28,7 +28,7 @@ Check out the live version of my portfolio [here](https://imaneellaouzi-portfoli
 You can reach me at:
 
 - Email: **emanellaouzi.05@gmail.com**  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/imaneellaouzi/)  
+- LinkedIn: [Imane EL Laouzi](https://linkedin.com/imaneellaouzi/)  
 - GitHub: [Imane-Portfolio](https://github.com/ImaneElla/Imane-Portfolio)
 
 ---
